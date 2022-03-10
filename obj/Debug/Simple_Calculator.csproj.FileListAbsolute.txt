@@ -1,0 +1,8 @@
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe.config
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+C:\Users\alikh\Desktop\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
